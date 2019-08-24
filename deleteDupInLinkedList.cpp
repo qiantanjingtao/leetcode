@@ -77,6 +77,6 @@ public:
 };
 
 int main(int argc, const char * argv[]) {
-    
+    Solution s;
     return 0;
 }
